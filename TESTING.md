@@ -1,2 +1,2 @@
-Please refer to
+Please refer to this
 https://github.com/chef-cookbooks/community_cookbook_documentation/blob/master/TESTING.MD
